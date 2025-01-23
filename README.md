@@ -7,6 +7,7 @@
 
 <h1> Current Tech Stack: </h1>
 <ul>
+  <li>Java, C++ </li>
   <li>HTML, CSS, Javascript</li>
 </ul>
 
