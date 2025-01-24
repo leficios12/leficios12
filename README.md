@@ -1,17 +1,17 @@
-## Hi there, I am Shinya Koike
+<h1> Hi there, I am Shinya Koike </h1>
 
 <ul>
   <li>I am currently a Freshman @ University Of Santo Tomas </li>
   <li>Taking BS Information Technology</li>
 </ul>
 
-<h1> Current Tech Stack: </h1>
+<h2> Current Tech Stack: </h2>
 <ul>
   <li>Java, C++ </li>
   <li>HTML, CSS, Javascript</li>
 </ul>
 
-<h2> socials: </h2>
+<h2> Socials: </h2>
 <ul> 
   <li> gmail: Shinyakoike3564@gmail.com </li>
   <li> codewars profile: https://www.codewars.com/users/leficios12 </li>
