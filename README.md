@@ -11,6 +11,11 @@
   <li>HTML, CSS, Javascript</li>
 </ul>
 
+<h2> socials: </h2>
+<ul> 
+  <li> gmail: Shinyakoike3564@gmail.com </li>
+  <li> codewars profile: https://www.codewars.com/users/leficios12 </li>
+</ul>
 
 
 <!--
