@@ -5,12 +5,6 @@
   <li>Taking BS Information Technology</li>
 </ul>
 
-<h2> Current Tech Stack: </h2>
-<ul>
-  <li>Java, C++ </li>
-  <li>HTML, CSS, Javascript</li>
-</ul>
-
 <h2> Socials: </h2>
 <ul> 
   <li> gmail: Shinyakoike3564@gmail.com </li>
