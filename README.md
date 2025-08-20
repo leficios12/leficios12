@@ -1,7 +1,7 @@
-<h1> Hi there, I am Shinya Koike </h1>
+<h1> Hi </h1>
 
 <ul>
-  <li>I am currently a Freshman @ University Of Santo Tomas </li>
+  <li>Currently a Freshman @ University Of Santo Tomas </li>
   <li>Taking BS Information Technology</li>
 </ul>
 
