@@ -1,7 +1,7 @@
 <h1> Hi </h1>
 
 <ul>
-  <li>Currently a Freshman @ University Of Santo Tomas </li>
+  <li>Currently a Sophomore @ University Of Santo Tomas </li>
   <li>Taking BS Information Technology</li>
 </ul>
 
