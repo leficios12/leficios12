@@ -1,8 +1,7 @@
-<h1> Hi </h1>
 
 <ul>
-  <li>Currently a Sophomore @ University Of Santo Tomas </li>
-  <li>Taking BS Information Technology</li>
+  <li>Sophomore @ University Of Santo Tomas </li>
+  <li>BS Information Technology</li>
 </ul>
 
 <h2> Socials: </h2>
