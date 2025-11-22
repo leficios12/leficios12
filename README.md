@@ -4,11 +4,6 @@
   <li>BS Information Technology</li>
 </ul>
 
-<h2> Socials: </h2>
-<ul> 
-  <li> gmail: Shinyakoike3564@gmail.com </li>
-  <li> codewars profile: <a target = "_blank">  https://www.codewars.com/users/leficios12 </a></li>
-</ul>
 
 
 <!--
