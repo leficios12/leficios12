@@ -1,7 +1,6 @@
 
 <ul>
-  <li>Sophomore @ University Of Santo Tomas </li>
-  <li>BS Information Technology</li>
+  <li>Junior BS IT @ University Of Santo Tomas </li>
 </ul>
 
 
